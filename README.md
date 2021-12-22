@@ -1,9 +1,10 @@
 Browser
 ====
 
-This project implements a web browser.
+This project implements a web browser. Based on skeleton code from Duke university CS307.
 
-Name: Young Jun
+<img width="1336" alt="Screen Shot 2021-12-22 at 10 18 12 PM" src="https://user-images.githubusercontent.com/35345069/147099251-fb0f3579-ed78-45b9-a696-0a2e3bfaa170.png">
+
 
 ### Timeline
 
@@ -13,12 +14,6 @@ Finish Date: 20-09-2021
 
 Hours Spent: 14
 
-
-### Tutorial and other Resources Used
-None
-
-### Resource Attributions
-None
 
 ### Running the Program
 
